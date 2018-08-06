@@ -8,9 +8,9 @@
 
 ## 资料及准备
 
-* [vue]('https://cn.vuejs.org/')
-* [vue-router]('https://router.vuejs.org/zh/')
-* [豆瓣电影api]('https://developers.douban.com/wiki/?title=movie_v2')
+* [vue](https://cn.vuejs.org/)
+* [vue-router](https://router.vuejs.org/zh/)
+* [豆瓣电影api](https://developers.douban.com/wiki/?title=movie_v2)
 * vue-cli
 
 vue-cli不会使用请看这里（node要先安装[下载地址](http://nodejs.cn/download/)）
@@ -28,9 +28,9 @@ vue-cli不会使用请看这里（node要先安装[下载地址](http://nodejs.c
 
 ## api的使用
 
-* [top250]('https://developers.douban.com/wiki/?title=movie_v2#top250')
-* [关键字搜索电影]('https://developers.douban.com/wiki/?title=movie_v2#search')
-* [电影详情]('https://developers.douban.com/wiki/?title=movie_v2#subject')
+* [top250](https://developers.douban.com/wiki/?title=movie_v2#top250)
+* [关键字搜索电影](https://developers.douban.com/wiki/?title=movie_v2#search)
+* [电影详情](https://developers.douban.com/wiki/?title=movie_v2#subject)
 
 ## 静态ui图
 
