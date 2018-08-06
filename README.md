@@ -35,9 +35,11 @@ vue-cli不会使用请看这里（node要先安装[下载地址](http://nodejs.c
 ## 静态ui图
 
 首页
+
 ![首页](./image/1.png '首页')
 
 详情页面
+
 ![详情页面](./image/2.png '详情页面')
 
 ## 任务
@@ -59,3 +61,23 @@ vue-cli不会使用请看这里（node要先安装[下载地址](http://nodejs.c
 大家遇到的问题，在群里随时提问，一些很有趣的问题，我会整理放在这里。
 
 当然，我希望大家遇到问题，首先是自己去解决。解决的过程远比你实现这个效果来的有意义。
+
+### 我不会使用vue，怎么办？
+
+页面的搭建都是用HTML+css来实现，页面的行为使用js，基础如果确实弱可以使用jq来实现（这里并不是鄙视jq差，jq也是前端的基础，必须掌握）
+
+里面有关于数据请求的代码如下
+
+``` js
+$.ajax({
+  url:"http://api.douban.com/v2/movie/search",
+  type: 'get',
+  data: {
+    q: encodeURI("动作")
+  },
+  success: (res) => {
+    console.log(res)
+    // 结果就在res里面
+  }
+});
+```
