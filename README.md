@@ -81,3 +81,10 @@ $.ajax({
   }
 });
 ```
+
+## 完成的同学~
+
+* lazyken
+
+仓库地址：[https://github.com/lazyken/v-movie](https://github.com/lazyken/v-movie)
+预览地址：[https://lazyken.github.io/dist/](https://lazyken.github.io/dist/)
