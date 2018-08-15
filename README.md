@@ -84,7 +84,17 @@ $.ajax({
 
 ## 完成的同学~
 
-* lazyken
+* 大雨
 
 仓库地址：[https://github.com/lazyken/v-movie](https://github.com/lazyken/v-movie)
 预览地址：[https://lazyken.github.io/dist/](https://lazyken.github.io/dist/)
+
+* 心若向阳
+
+仓库地址：[https://github.com/qq79952008/vue-doubanmovie](https://github.com/qq79952008/vue-doubanmovie)
+预览地址：[https://yf19920714.gitee.io/vue-douban/#/home/hot](https://yf19920714.gitee.io/vue-douban/#/home/hot)
+
+* Joseph
+
+react版本
+预览地址：[https://josephjin.site/react-douban-movie/dist/#/](https://josephjin.site/react-douban-movie/dist/#/)
